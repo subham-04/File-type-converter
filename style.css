@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Slab&display=swap');
+html{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+   display: grid;
+    font-size: 1.2rem;
+   font-family: 'Nunito', sans-serif;
+    height: 100vh;
+    max-width: 100vw;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(156, 134, 209);
+
+}
+.standard-text{
+    font-family: 'Josefin Slab', serif;
+    color: rgba(240, 29, 36, 0.849);
+}
+  #fileInput{
+    visibility:hidden;
+  }
+  .btn{
+    
+    cursor: pointer;
+    border-radius: 0.61rem;
+    padding:0.5rem 1rem;
+    color: antiquewhite;
+    background: linear-gradient(to right, #c33764, #1d2671);
+  }
+  .up{
+    margin-inline: 0.2rem;
+  }
+
+  .card{
+    display: grid;
+    background-color: rgb(195,169,255);
+    height: 25rem;
+    width: 25rem;
+    text-align: center;
+    justify-content: center !important;
+    align-items: center !important;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  }
+
+  a{
+    text-decoration: none;
+  }
+
+  h1{
+    text-transform: uppercase;
+    font-size: 1.5rem;
+  }
+  .creator{
+    text-transform: uppercase;
+  }
+  ul{
+    margin: 2rem 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    
+  }
+  footer{
+    font-size: 0.95rem;
+  }
+  .social{
+    padding-inline: 8px;
+    text-decoration: none;
+    
+  }
+  i{
+    font-size: 1.3rem;
+  }
+  .social-link{
+    transition-duration: 0.312s;
+    color: rgb(29, 8, 78);
+    text-decoration: none;
+  }
+
+  #github:hover{
+    color: #f5f5f5;
+  }
+  #email:hover{
+    color: rgb(205,59,46);
+  }
+  #instagram:hover{
+    color: #E1306C;
+  }
+  #linkedin:hover{
+    color: #0d71c4;
+  }
