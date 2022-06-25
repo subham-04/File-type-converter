@@ -22,7 +22,7 @@
 
 <br>
 
-![App Screenshot](https://github.com/subham-04/Portfolio/blob/main/mobile.png)
+![App Screenshot](https://github.com/subham-04/File-type-converter/blob/main/mobile_v.jpeg)
 
 <br>
 
