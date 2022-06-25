@@ -16,7 +16,7 @@
 
 <br>
 
-![App Screenshot](https://github.com/subham-04/Portfolio/blob/main/pp.png)
+![App Screenshot](https://github.com/subham-04/File-type-converter/blob/main/desktop_v.png)
 
 ## Mobile View
 
@@ -26,8 +26,3 @@
 
 <br>
 
-## Demo
-
-link to demo
-
-https://earnest-lokum-37e90c.netlify.app/
